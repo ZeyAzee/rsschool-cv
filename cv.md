@@ -15,6 +15,8 @@ I have chosen my professional fate as been a programmer. At that moment my main 
 * **HTML,CSS**
 ***
 ###Code examples
+* [**HTML,CSS**](https://github.com/ZeyAzee/4shcool)
+* [**Java**](https://github.com/ZeyAzee/java-lab7)
 ***
 ###Education
 Studying in BSU on technical specialty
